@@ -89,7 +89,7 @@ Compile a rough budget estimate, packing list, and practical travel tips for the
 - [x] **Packing list**: Create a practical packing list for a 2-week camping/self-drive trip in Namibia
 - [x] **Practical tips**: Document useful tips — best time to visit, mobile connectivity, water, safety, wildlife etiquette, photography tips
 - [x] **Update README.md**: Add budget, packing list, and practical tips sections. Final review of the complete README.
-- [ ] **Push to git**: Commit and push all Phase 4 changes
+- [x] **Push to git**: Commit and push all Phase 4 changes
 - [ ] **Manual verification**: User verifies Phase 4 results
 
 ---
@@ -101,15 +101,15 @@ Research safety in Namibia, common dangers, tourist scams, cultural do's and don
 
 ### Steps
 
-- [ ] **Research**: Investigate safety situation in Namibia — crime levels (especially Windhoek), road safety statistics, wildlife dangers, health risks (malaria zones, sun/heat), common tourist scams, areas to avoid, cultural sensitivities, and typical mistakes self-drive tourists make. Document findings in `ai/research-phase5.md`
-- [ ] **Verify plan**: Review research from `ai/research-phase5.md` and verify that the steps below are correct and complete. Adjust if needed.
-- [ ] **General safety overview**: Write up overall safety assessment — how safe Namibia is for tourists, crime hotspots, and how it compares to other African destinations
-- [ ] **Road & driving dangers**: Document specific driving risks — gravel road hazards, tire blowouts, night driving dangers, animal crossings, fuel range anxiety, and what to do if you break down in a remote area
-- [ ] **Wildlife & nature risks**: Cover dangerous animals (snakes, scorpions, hippos, elephants), flash flood risks, extreme heat, dehydration, and sun exposure
-- [ ] **Health precautions**: Malaria risk zones (northern Namibia/Etosha), recommended prophylaxis, water safety, nearest hospitals along the route
-- [ ] **Scams & tourist traps**: Document common scams, overpriced tourist traps, and things that aren't worth the money
-- [ ] **Things NOT to do**: Compile a clear list of don'ts — cultural taboos, illegal activities (e.g., drone rules, off-road driving in parks), and common mistakes that ruin trips
-- [ ] **Emergency contacts & resources**: List key emergency numbers, embassy contacts, roadside assistance, and medical evacuation options
-- [ ] **Update README.md**: Add safety and "things to avoid" sections. Final review of the complete README.
+- [x] **Research**: Investigate safety situation in Namibia — crime levels (especially Windhoek), road safety statistics, wildlife dangers, health risks (malaria zones, sun/heat), common tourist scams, areas to avoid, cultural sensitivities, and typical mistakes self-drive tourists make. Document findings in `ai/research-phase5.md`
+- [x] **Verify plan**: Review research from `ai/research-phase5.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **General safety overview**: Write up overall safety assessment — how safe Namibia is for tourists, crime hotspots, and how it compares to other African destinations
+- [x] **Road & driving dangers**: Document specific driving risks — gravel road hazards, tire blowouts, night driving dangers, animal crossings, fuel range anxiety, and what to do if you break down in a remote area
+- [x] **Wildlife & nature risks**: Cover dangerous animals (snakes, scorpions, hippos, elephants), flash flood risks, extreme heat, dehydration, and sun exposure
+- [x] **Health precautions**: Malaria risk zones (northern Namibia/Etosha), recommended prophylaxis, water safety, nearest hospitals along the route
+- [x] **Scams & tourist traps**: Document common scams, overpriced tourist traps, and things that aren't worth the money
+- [x] **Things NOT to do**: Compile a clear list of don'ts — cultural taboos, illegal activities (e.g., drone rules, off-road driving in parks), and common mistakes that ruin trips
+- [x] **Emergency contacts & resources**: List key emergency numbers, embassy contacts, roadside assistance, and medical evacuation options
+- [x] **Update README.md**: Add safety and "things to avoid" sections. Final review of the complete README.
 - [ ] **Push to git**: Commit and push all Phase 5 changes
 - [ ] **Manual verification**: User verifies final plan

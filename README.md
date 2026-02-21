@@ -12,7 +12,7 @@
 - [Itinerary](#itinerary)
 - [Budget](#budget)
 - [Packing List & Practical Tips](#packing-list--practical-tips)
-- [Safety & Things to Avoid](#safety--things-to-avoid) *(Phase 5)*
+- [Safety & Things to Avoid](#safety--things-to-avoid)
 
 ---
 
@@ -527,4 +527,75 @@ Counter-clockwise loop from Windhoek: south to the dunes, west to the coast, nor
 
 ## Safety & Things to Avoid
 
-*Coming in Phase 5.*
+### Overall Safety
+
+Namibia is **one of the safest countries in Africa** for tourists. Self-drive tourism is well-established and thousands of visitors do it safely every year. The biggest risk is **traffic accidents on gravel roads**, not crime.
+
+### Crime
+
+- **Windhoek**: Mugging and bag-snatching occur, even in daytime. Avoid walking alone after dark. Don't carry valuables visibly.
+- **On the road**: Keep doors locked, windows up when driving through towns. Don't stop for hitchhikers on remote roads.
+- **At campsites**: Generally very safe. Lock valuables in the vehicle. Don't leave food out (baboons and jackals).
+- **Car break-ins**: Never leave anything visible in the car — ever. Park in well-lit, busy areas.
+
+### Driving Dangers (The Biggest Risk)
+
+1. **Don't speed on gravel** — most accidents are rollovers from excessive speed. Max 80 km/h, often slower.
+2. **Never drive after dark** — animals on the road (kudu can jump into your windshield), no street lights, no road markings.
+3. **Tyre blowouts** — very common on sharp gravel. Carry 2 spare tyres. Know how to change one.
+4. **Soft sand patches** — keep momentum, don't brake suddenly.
+5. **Fatigue** — corrugated gravel roads are exhausting. Limit to 4–6 hours/day.
+6. **No cell coverage** — in remote areas, you're on your own. Carry water, food, and spares.
+
+**If you break down**: Stay with the vehicle. Use your hazard triangle. Flag passing vehicles. Call your rental company if you have signal. Carry at least 10L water per person.
+
+### Wildlife Safety
+
+- **Elephants**: Keep 50m+ distance. Never block their path. Turn off engine if they approach. Be especially cautious in Damaraland.
+- **Snakes & scorpions**: Watch where you step at night. Shake out shoes every morning. Don't walk barefoot.
+- **Baboons**: Will aggressively steal food. Never feed them. Keep food locked away.
+- **At waterholes**: Stay in your vehicle. Don't get out to photograph animals.
+
+### Health Risks
+
+- **Heat & dehydration**: Can exceed 40°C in the desert. Drink 5L+ water/day. Wear SPF 50+, hat, long sleeves.
+- **Malaria**: Risk in northern Namibia (Etosha area). Take prophylaxis (Malarone). Use DEET repellent. If you develop fever/chills up to 4 weeks after the trip, seek medical help immediately and mention Namibia.
+- **Flash floods**: During rainy season (Nov–Apr), dry riverbeds can flood suddenly. Never camp in one.
+
+### Scams to Watch For
+
+1. **Fake charity collectors** — people claiming to collect for orphanages/schools. Often not legitimate.
+2. **Diamond/gem sellers** — buying unregistered diamonds is **illegal** and can get you arrested.
+3. **Inflated prices** — at roadside stalls and markets near tourist spots. Haggle.
+4. **Smash-and-grab** — in Windhoek traffic. Keep windows up, doors locked, bags hidden.
+
+### Things NOT to Do
+
+1. **Don't drive after dark** — the #1 rule in Namibia
+2. **Don't speed on gravel** — 80 km/h maximum
+3. **Don't drive off-road** — illegal in national parks, destroys fragile desert ecosystems, tracks last decades
+4. **Don't fly drones** in national parks — strictly prohibited in Etosha, Sossusvlei, Skeleton Coast. Requires a DCA permit applied 60+ days in advance.
+5. **Don't approach or feed wildlife** — especially elephants and baboons
+6. **Don't walk in Windhoek after dark** — use taxis or your own vehicle
+7. **Don't pick up hitchhikers** on remote roads
+8. **Don't camp in dry riverbeds** — flash flood risk
+9. **Don't photograph people without asking** — especially Himba communities
+10. **Don't buy diamonds** from street vendors — illegal
+11. **Don't litter** — Leave No Trace. Namibia's pristine landscapes are the whole point.
+
+### Emergency Contacts
+
+| Service | Number |
+|---------|--------|
+| General emergency (mobile) | 112 |
+| Police | 10111 |
+| Ambulance | 101 |
+| Lifelink Air Ambulance | 999 (landline) / 085 900 (mobile) |
+| International SOS | 081 129 3137 |
+| AA Roadside Assistance | 081 218 4552 |
+| Namibia 24 Road Assistance | 081 148 7812 |
+
+**EU Consular Help** (Latvia has no embassy in Namibia):
+- EU Delegation in Namibia: +264 (0) 63 200 2202
+- German Embassy Windhoek: +264 61 273 100
+- Latvian MFA 24/7 emergency: +371 2 6111 111

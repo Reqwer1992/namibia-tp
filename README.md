@@ -9,7 +9,7 @@
 - [Entry Requirements](#entry-requirements)
 - [Flight Options](#flight-options)
 - [Vehicle Rental & Camping](#vehicle-rental--camping)
-- [Itinerary](#itinerary) *(Phase 3)*
+- [Itinerary](#itinerary)
 - [Budget](#budget) *(Phase 4)*
 - [Packing List & Practical Tips](#packing-list--practical-tips) *(Phase 4)*
 - [Safety & Things to Avoid](#safety--things-to-avoid) *(Phase 5)*
@@ -213,7 +213,173 @@ All major rental companies provide camping-equipped 4x4s with:
 
 ## Itinerary
 
-*Coming in Phase 3.*
+### Route Overview
+
+Counter-clockwise loop from Windhoek: south to the dunes, west to the coast, north through Damaraland, east to Etosha, and south back to Windhoek.
+
+**Total distance**: ~2,800–3,200 km | **Days in-country**: 14
+
+> **Not included** (would need 3+ weeks): Fish River Canyon, Caprivi Strip, Kaokoveld/Opuwo. These are too far for a 14-day trip without rushing.
+
+---
+
+### Day 1 — Arrive in Windhoek
+
+- **Drive**: Airport → Windhoek (~45 km, 40 min)
+- **To do**: Pick up rental vehicle, buy supplies (food, water, firewood) at a Windhoek supermarket (Checkers, Pick n Pay, or Spar). Get a local SIM card (MTC).
+- **Camp**: Urban Camp or Arebbusch Travel Lodge (both in Windhoek, good facilities)
+
+---
+
+### Day 2 — Windhoek → Sesriem (Sossusvlei Gateway)
+
+- **Drive**: 380 km, ~5 hours (B1 south, then C24 west — mix of tar and gravel)
+- **To do**: Drive early, arrive by early afternoon. Explore **Sesriem Canyon** (30m deep, ~1 km long gorge, beautiful in late afternoon light). Prepare for an early morning.
+- **Camp**: Sesriem Campsite (NWR, inside the park gate — **this is key**: only campers here can enter the dune area before sunrise)
+
+---
+
+### Day 3 — Sossusvlei & Deadvlei
+
+- **Drive**: ~130 km round trip within the park (65 km each way to Sossusvlei parking)
+- **To do**:
+  - **Sunrise at Dune 45** (~170m) — the most accessible dune, glows orange at dawn. ~30 min climb.
+  - **Deadvlei** — surreal white clay pan with 900-year-old dead camel thorn trees against towering red dunes. The most iconic image of Namibia.
+  - **Big Daddy** (~325m) — one of the world's tallest sand dunes. Optional climb from Deadvlei (strenuous, ~1.5 hrs up).
+  - Return by midday (heat becomes extreme). Afternoon: rest, read, relax.
+- **Camp**: Sesriem Campsite (second night)
+
+> **Why Sossusvlei**: The oldest and tallest sand dunes on Earth. Deadvlei is one of the most photographed landscapes in Africa. You won't see anything like this anywhere else.
+
+---
+
+### Day 4 — Sesriem → Swakopmund
+
+- **Drive**: 350 km, ~5–6 hours via the **scenic C14 route** through Kuiseb Pass and Gaub Pass
+- **To do**: This is one of Namibia's most beautiful drives. The landscape shifts from red dunes to rocky canyons to moonscape gravel plains. Stop at **Solitaire** for famous apple pie and fuel. The C14 route passes through the Namib-Naukluft Park — watch for oryx and ostriches.
+- **Camp**: Alte Brücke Resort or Snake Park campsite in Swakopmund
+
+> **Why this route**: The direct B2 from Windhoek is faster but boring. The C14 from Sesriem is slower but spectacularly scenic — a highlight of the trip.
+
+---
+
+### Day 5 — Swakopmund & Walvis Bay
+
+- **Drive**: ~70 km round trip to Walvis Bay + ~240 km round trip to Cape Cross = pick one or combine
+- **To do** (choose your day):
+  - **Morning: Cape Cross Seal Colony** (120 km north, 1.5 hrs each way) — ~200,000 Cape fur seals on the beach. Noisy, smelly, unforgettable. Allow 1–2 hrs there.
+  - **Afternoon: Walvis Bay Lagoon** (35 km south) — thousands of flamingos, pelicans, seals. Optional: kayak with seals or take a Sandwich Harbour 4x4 tour (stunning dunes meeting the ocean).
+  - **Evening**: Explore Swakopmund — German colonial architecture, seafood restaurants, craft markets
+- **Camp**: Swakopmund (second night at same campsite)
+
+> **Why Swakopmund**: Namibia's adventure capital and the only real "town" on your route. Good for restocking supplies, doing laundry, and taking a break from the bush.
+
+---
+
+### Day 6 — Swakopmund → Spitzkoppe
+
+- **Drive**: 150 km, ~2 hours (B2 east then D1918 north)
+- **To do**: Arrive by late morning. Explore the granite boulders, hike to the **Rock Arch** (natural stone arch — spectacular at sunset). Visit **San rock art** (guide mandatory, arranged at reception). Late afternoon: find a sundowner spot as the granite turns deep red/orange at sunset. **Stargazing** at night is world-class (zero light pollution).
+- **Camp**: Spitzkoppe Community Rest Camp (basic — drop toilets, no power, showers at reception only. But the setting is magical.)
+
+> **Why Spitzkoppe**: Called the "Matterhorn of Namibia." Dramatic 700-million-year-old granite peaks rising from flat desert. One of the best stargazing spots in the world.
+
+---
+
+### Day 7 — Spitzkoppe → Twyfelfontein (Damaraland)
+
+- **Drive**: 250 km, ~3.5 hours (via Uis and Khorixas — gravel roads)
+- **To do**: Stop in **Uis** for fuel. Afternoon: visit **Twyfelfontein** — a UNESCO World Heritage Site with 2,000+ rock engravings made by San hunter-gatherers up to 6,000 years ago. Guided tours only (~1.5 hrs). Nearby: **Organ Pipes** (columnar basalt formation) and **Burnt Mountain** (hillside that looks charred).
+- **Camp**: Aba-Huab Camp, Twyfelfontein Country Lodge campsite, or Madisa Camp
+
+> **Why Twyfelfontein**: One of Africa's largest concentrations of ancient rock art, and a UNESCO site. The surrounding Damaraland landscape is raw and remote.
+
+---
+
+### Day 8 — Damaraland Exploration Day
+
+- **Drive**: Variable, ~50–150 km depending on activities
+- **To do**:
+  - **Petrified Forest** (40 km west of Khorixas) — 280-million-year-old fossilized tree trunks, some up to 34m long
+  - **Desert-adapted elephants** — Damaraland is home to a rare population of elephants adapted to the desert. Ask locally or join a tracking drive along the Aba-Huab or Huab riverbeds. Sightings are not guaranteed but the landscape alone is worth it.
+  - Afternoon: relax at camp, explore the area
+- **Camp**: Same as Day 7 (or move to a different nearby campsite)
+
+> **Why a full day**: Damaraland's attractions are spread out and best enjoyed without rushing. The desert elephants are a unique experience.
+
+---
+
+### Day 9 — Damaraland → Etosha National Park
+
+- **Drive**: 250 km, ~3.5 hours (via Outjo — fuel and supplies stop)
+- **To do**: Stock up in **Outjo** (last proper town before Etosha). Enter Etosha via **Anderson Gate** (south entrance). Afternoon: first game drive around **Okaukuejo waterhole area**. Evening: sit at the **floodlit Okaukuejo waterhole** — famous for nighttime rhino and elephant sightings.
+- **Camp**: Okaukuejo Camp (NWR — **book well in advance**)
+
+> **Why Etosha**: One of Africa's greatest game reserves. The park centres on a vast salt pan, and animals congregate at permanent waterholes — making self-drive game viewing exceptionally easy and rewarding.
+
+---
+
+### Day 10 — Etosha: Okaukuejo → Halali
+
+- **Drive**: ~70 km through the park (but plan a full day of game driving, looping to various waterholes)
+- **To do**: Early morning game drive — this is when predators are most active. Visit waterholes: **Nebrownii**, **Gemsbokvlakte**, **Rietfontein**. Animals to watch for: elephants, lions, rhinos (both black and white), giraffes, zebras, wildebeest, springbok, oryx, jackals. Afternoon: drive to Halali, settle in. Evening: Halali's waterhole (smaller but good for rhinos).
+- **Camp**: Halali Camp (NWR)
+
+---
+
+### Day 11 — Etosha: Halali → Namutoni
+
+- **Drive**: ~75 km through the park (again, full day of game driving)
+- **To do**: Morning game drive eastward. Key waterholes: **Goas**, **Klein Namutoni**, **Fischer's Pan** (seasonal — sometimes has flamingos). The eastern side of Etosha has different habitat and sometimes different species. Afternoon: arrive at **Namutoni** — a picturesque fort-style camp. Evening: sundowner at the fort walls.
+- **Camp**: Namutoni Camp (NWR)
+
+> **3 nights in Etosha**: This gives you time to see different sections of the park and maximizes your chances of seeing the Big Five (lion, leopard, elephant, rhino, buffalo — though buffalo are rare in Etosha).
+
+---
+
+### Day 12 — Etosha → Okonjima Nature Reserve
+
+- **Drive**: 300 km, ~3.5 hours (exit Etosha via Von Lindequist Gate, B1 south via Otjiwarongo)
+- **To do**: Optional early morning game drive in Etosha before departing. Drive to **Okonjima Nature Reserve / AfriCat Foundation** — a big cat conservation centre. Afternoon: **leopard tracking drive** (radio-collar guided, ~NAD 700/person) or "Into AfriCat" conservation tour.
+- **Camp**: Okonjima campsite (or budget accommodation on the reserve)
+
+> **Why Okonjima**: A chance to see leopards up close in a conservation setting. AfriCat rehabilitates orphaned and injured big cats. A meaningful final wildlife experience before Windhoek.
+
+---
+
+### Day 13 — Okonjima → Windhoek
+
+- **Drive**: 250 km, ~3 hours (B1 south — good tar road)
+- **To do**: Morning activity at Okonjima (bushwalk, another tracking drive, or visit the Carnivore Care Centre). After lunch, drive to Windhoek. Afternoon: return the vehicle (or keep it overnight if your flight is early next day). Optional: dinner in Windhoek — try **Joe's Beerhouse** (local institution, game meat steaks) or **The Stellenbosch** (wine bar/restaurant).
+- **Camp**: Urban Camp or Arebbusch (same as Day 1), or a Windhoek guesthouse for a last-night treat
+
+---
+
+### Day 14 — Depart Windhoek
+
+- **To do**: Return rental vehicle (if not done Day 13). Drive/transfer to Hosea Kutako Airport (45 km, 40 min). Depart Namibia.
+
+---
+
+### Quick Reference Table
+
+| Day | Route | Distance | Drive Time | Highlight |
+|-----|-------|----------|------------|-----------|
+| 1 | Arrive Windhoek | 45 km | 40 min | Pick up vehicle, supplies |
+| 2 | Windhoek → Sesriem | 380 km | 5 hrs | Sesriem Canyon |
+| 3 | Sossusvlei area | 130 km | — | Dune 45, Deadvlei, Big Daddy |
+| 4 | Sesriem → Swakopmund | 350 km | 5–6 hrs | Scenic C14 drive, Solitaire |
+| 5 | Swakopmund / Cape Cross | 240 km | — | Seal colony, Walvis Bay lagoon |
+| 6 | Swakopmund → Spitzkoppe | 150 km | 2 hrs | Rock Arch, sunset, stargazing |
+| 7 | Spitzkoppe → Twyfelfontein | 250 km | 3.5 hrs | Rock engravings (UNESCO) |
+| 8 | Damaraland exploration | 50–150 km | — | Petrified Forest, desert elephants |
+| 9 | Damaraland → Etosha | 250 km | 3.5 hrs | First game drive, Okaukuejo waterhole |
+| 10 | Etosha: Okaukuejo → Halali | 70 km+ | Full day | Game drives, waterholes |
+| 11 | Etosha: Halali → Namutoni | 75 km+ | Full day | Game drives, Fischer's Pan |
+| 12 | Etosha → Okonjima | 300 km | 3.5 hrs | Leopard tracking, AfriCat |
+| 13 | Okonjima → Windhoek | 250 km | 3 hrs | Morning activity, farewell dinner |
+| 14 | Depart Windhoek | 45 km | 40 min | Fly home |
+| **Total** | | **~2,800–3,200 km** | | |
 
 ---
 

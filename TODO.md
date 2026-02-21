@@ -52,7 +52,7 @@ Research 4x4 camper / rooftop-tent vehicle rental companies in Namibia, costs, i
 - [x] **Camping logistics**: Document campsite booking (NWR for national park campsites), wild camping rules, water/fuel station locations along major routes
 - [x] **Driving tips**: Road conditions, gravel road driving, fuel range planning, emergency contacts
 - [x] **Update README.md**: Add vehicle rental and camping logistics sections
-- [ ] **Push to git**: Commit and push all Phase 2 changes
+- [x] **Push to git**: Commit and push all Phase 2 changes
 - [ ] **Manual verification**: User verifies Phase 2 results
 
 ---
@@ -64,12 +64,12 @@ Design the ~14-day self-drive route covering Namibia's top highlights, with real
 
 ### Steps
 
-- [ ] **Research**: Investigate optimal Namibia self-drive routes for ~14 days — must-see destinations (Sossusvlei/Deadvlei, Etosha, Skeleton Coast, Swakopmund, Spitzkoppe, Damaraland, Fish River Canyon, Waterberg, etc.), driving distances between them, best order to minimize backtracking, and seasonal considerations. Document findings in `ai/research-phase3.md`
-- [ ] **Verify plan**: Review research from `ai/research-phase3.md` and verify that the steps below are correct and complete. Adjust if needed.
-- [ ] **Route design**: Map out the full circular route starting and ending in Windhoek, with daily driving distances (aim for max ~300-400km/day on gravel)
-- [ ] **Day-by-day itinerary**: Write detailed day-by-day plan including: where to drive, what to see, where to camp, key activities, and why each stop is worth visiting
-- [ ] **Highlight descriptions**: For each major destination, write a brief "why go here" description so the travelers know what to expect
-- [ ] **Update README.md**: Add the full itinerary, route map description, and destination highlights
+- [x] **Research**: Investigate optimal Namibia self-drive routes for ~14 days — must-see destinations (Sossusvlei/Deadvlei, Etosha, Skeleton Coast, Swakopmund, Spitzkoppe, Damaraland, Fish River Canyon, Waterberg, etc.), driving distances between them, best order to minimize backtracking, and seasonal considerations. Document findings in `ai/research-phase3.md`
+- [x] **Verify plan**: Review research from `ai/research-phase3.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **Route design**: Map out the full circular route starting and ending in Windhoek, with daily driving distances (aim for max ~300-400km/day on gravel)
+- [x] **Day-by-day itinerary**: Write detailed day-by-day plan including: where to drive, what to see, where to camp, key activities, and why each stop is worth visiting
+- [x] **Highlight descriptions**: For each major destination, write a brief "why go here" description so the travelers know what to expect
+- [x] **Update README.md**: Add the full itinerary, route map description, and destination highlights
 - [ ] **Push to git**: Commit and push all Phase 3 changes
 - [ ] **Manual verification**: User verifies Phase 3 results
 

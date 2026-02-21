@@ -111,5 +111,5 @@ Research safety in Namibia, common dangers, tourist scams, cultural do's and don
 - [x] **Things NOT to do**: Compile a clear list of don'ts — cultural taboos, illegal activities (e.g., drone rules, off-road driving in parks), and common mistakes that ruin trips
 - [x] **Emergency contacts & resources**: List key emergency numbers, embassy contacts, roadside assistance, and medical evacuation options
 - [x] **Update README.md**: Add safety and "things to avoid" sections. Final review of the complete README.
-- [ ] **Push to git**: Commit and push all Phase 5 changes
+- [x] **Push to git**: Commit and push all Phase 5 changes
 - [ ] **Manual verification**: User verifies final plan

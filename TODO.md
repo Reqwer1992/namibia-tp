@@ -70,7 +70,7 @@ Design the ~14-day self-drive route covering Namibia's top highlights, with real
 - [x] **Day-by-day itinerary**: Write detailed day-by-day plan including: where to drive, what to see, where to camp, key activities, and why each stop is worth visiting
 - [x] **Highlight descriptions**: For each major destination, write a brief "why go here" description so the travelers know what to expect
 - [x] **Update README.md**: Add the full itinerary, route map description, and destination highlights
-- [ ] **Push to git**: Commit and push all Phase 3 changes
+- [x] **Push to git**: Commit and push all Phase 3 changes
 - [ ] **Manual verification**: User verifies Phase 3 results
 
 ---
@@ -82,13 +82,13 @@ Compile a rough budget estimate, packing list, and practical travel tips for the
 
 ### Steps
 
-- [ ] **Research**: Investigate typical costs for a 2-week Namibia self-drive trip — park entry fees (per person per day), campsite fees, fuel prices, food/grocery costs, activity costs (e.g., hot air balloon at Sossusvlei, boat tour at Walvis Bay), SIM cards, and any other expenses. Document findings in `ai/research-phase4.md`
-- [ ] **Verify plan**: Review research from `ai/research-phase4.md` and verify that the steps below are correct and complete. Adjust if needed.
-- [ ] **Budget breakdown**: Create an itemized budget estimate covering flights, vehicle, fuel, campsites, park fees, food, activities, and contingency
-- [ ] **Money-saving tips**: Document specific ways to reduce costs (e.g., cooking own food, free campsites, fuel-efficient driving)
-- [ ] **Packing list**: Create a practical packing list for a 2-week camping/self-drive trip in Namibia
-- [ ] **Practical tips**: Document useful tips — best time to visit, mobile connectivity, water, safety, wildlife etiquette, photography tips
-- [ ] **Update README.md**: Add budget, packing list, and practical tips sections. Final review of the complete README.
+- [x] **Research**: Investigate typical costs for a 2-week Namibia self-drive trip — park entry fees (per person per day), campsite fees, fuel prices, food/grocery costs, activity costs (e.g., hot air balloon at Sossusvlei, boat tour at Walvis Bay), SIM cards, and any other expenses. Document findings in `ai/research-phase4.md`
+- [x] **Verify plan**: Review research from `ai/research-phase4.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **Budget breakdown**: Create an itemized budget estimate covering flights, vehicle, fuel, campsites, park fees, food, activities, and contingency
+- [x] **Money-saving tips**: Document specific ways to reduce costs (e.g., cooking own food, free campsites, fuel-efficient driving)
+- [x] **Packing list**: Create a practical packing list for a 2-week camping/self-drive trip in Namibia
+- [x] **Practical tips**: Document useful tips — best time to visit, mobile connectivity, water, safety, wildlife etiquette, photography tips
+- [x] **Update README.md**: Add budget, packing list, and practical tips sections. Final review of the complete README.
 - [ ] **Push to git**: Commit and push all Phase 4 changes
 - [ ] **Manual verification**: User verifies Phase 4 results
 

@@ -10,8 +10,8 @@
 - [Flight Options](#flight-options)
 - [Vehicle Rental & Camping](#vehicle-rental--camping)
 - [Itinerary](#itinerary)
-- [Budget](#budget) *(Phase 4)*
-- [Packing List & Practical Tips](#packing-list--practical-tips) *(Phase 4)*
+- [Budget](#budget)
+- [Packing List & Practical Tips](#packing-list--practical-tips)
 - [Safety & Things to Avoid](#safety--things-to-avoid) *(Phase 5)*
 
 ---
@@ -385,13 +385,143 @@ Counter-clockwise loop from Windhoek: south to the dunes, west to the coast, nor
 
 ## Budget
 
-*Coming in Phase 4.*
+### Total Estimate (2 persons, 14 days)
+
+| Category | EUR (approx.) |
+|----------|---------------|
+| Flights (2 return, LHR→WDH via JNB) | 1,870 |
+| Visa (2 e-visas) | 160 |
+| Vehicle rental (14 days, camping-equipped 4x4) | 1,650 |
+| Fuel (~3,200 km) | 440 |
+| National park entry fees | 135 |
+| Campsites (13 nights) | 230 |
+| Food & groceries | 345 |
+| Activities (Cape Cross, Twyfelfontein, kayaking, Okonjima) | 265 |
+| SIM cards & data (2x MTC) | 30 |
+| Miscellaneous (water, firewood, tips, souvenirs) | 100 |
+| **TOTAL** | **~EUR 5,225** |
+| **Per person** | **~EUR 2,610** |
+
+### Cost Notes
+
+- **Vehicle rental** is the biggest single cost. Low-season rates (Nov–Jun) are 30–40% cheaper than peak (Jul–Oct).
+- **Flights** vary widely — book 2–3 months ahead for best prices.
+- **Food** is cheap if you self-cater. Supermarkets in Windhoek and Swakopmund (Checkers, Pick n Pay, Spar) have good prices.
+- **Park fees** are very reasonable. Etosha: NAD 150/person/day + NAD 50/vehicle/day.
+- **Activities** are optional — the best experiences (dunes, Etosha game drives, stargazing) are free or nearly free.
+
+### Money-Saving Tips
+
+1. **Cook your own food** — pasta, rice, braai meat, canned goods are cheap. Only eat out in Swakopmund and Windhoek.
+2. **Travel in low season** (Nov–Jun) — vehicle rental drops significantly and campsites are easier to book.
+3. **Book vehicle early** — most companies offer early-bird discounts.
+4. **Skip expensive activities** — Sandwich Harbour 4x4 tours (~NAD 1,500/person) and hot air balloon rides (~NAD 7,000/person) are nice but not essential.
+5. **Carry water from towns** — remote campsites charge more for bottled water.
+6. **Fill up fuel in towns** — remote fuel stations can be slightly pricier.
+
+### Currency & Payments
+
+- **Namibian Dollar (NAD)**, pegged 1:1 to South African Rand (ZAR) — both are accepted everywhere
+- Cards widely accepted in towns
+- **Carry cash for**: remote fuel stations, park gate fees, community campsites, tips
+- ATMs available in all major towns along the route
 
 ---
 
 ## Packing List & Practical Tips
 
-*Coming in Phase 4.*
+### Packing List
+
+**Documents & Money**
+- [ ] Passport (6+ months validity, 3+ blank pages)
+- [ ] E-visa printout
+- [ ] Travel insurance documents (printed)
+- [ ] Flight tickets / booking confirmations (printed)
+- [ ] Campsite booking confirmations
+- [ ] International driving permit (recommended, though not always required)
+- [ ] Credit/debit cards + cash (NAD or ZAR)
+- [ ] Copies of all documents (digital + paper)
+
+**Clothing**
+- [ ] Lightweight long trousers (2–3 pairs) — sun and mosquito protection
+- [ ] Shorts (2 pairs)
+- [ ] T-shirts / light tops (4–5)
+- [ ] Warm fleece or jacket — desert nights get cold (can drop below 10°C)
+- [ ] Light rain jacket (if visiting Nov–Apr)
+- [ ] Comfortable closed-toe shoes / hiking boots
+- [ ] Flip-flops / sandals (for camp and showers)
+- [ ] Wide-brimmed hat or cap
+- [ ] Swimwear (some campsites have pools)
+- [ ] Buff / neck gaiter (dust protection on gravel roads)
+
+**Sun & Health**
+- [ ] Sunscreen SPF 50+ (high altitude + desert = intense UV)
+- [ ] Sunglasses (polarized recommended)
+- [ ] DEET insect repellent (30–50%)
+- [ ] Malaria prophylaxis (Malarone / doxycycline — get prescription before trip)
+- [ ] Basic first-aid kit (plasters, antiseptic, painkillers, anti-diarrhoea, antihistamine)
+- [ ] Any personal medications
+- [ ] Lip balm with SPF
+- [ ] Moisturizer (the air is extremely dry)
+
+**Tech & Navigation**
+- [ ] Phone + charger
+- [ ] South African power adapter (Type D/M, round 3-pin) or universal adapter
+- [ ] Car charger (USB)
+- [ ] Camera + zoom lens (200mm+ for wildlife) + spare batteries/memory cards
+- [ ] Binoculars (essential for Etosha game drives)
+- [ ] Offline maps downloaded (Maps.me, Google Maps, or Tracks4Africa)
+- [ ] Paper road map of Namibia (buy at Windhoek airport or bookshop)
+- [ ] Power bank
+
+**Camping Extras** (beyond what the rental provides)
+- [ ] Headlamp / torch + spare batteries
+- [ ] Multi-tool / Swiss army knife
+- [ ] Reusable water bottles (1L+ each)
+- [ ] Dry bags or ziplock bags (for dust-proofing electronics and documents)
+- [ ] Lighter / matches (for braai)
+- [ ] Toilet paper (some bush toilets run out)
+- [ ] Wet wipes
+- [ ] Trash bags (leave no trace)
+
+**Vehicle Essentials** (verify with rental company)
+- [ ] 2 spare tyres (most companies include these)
+- [ ] Jack and wheel wrench
+- [ ] Tyre pressure gauge
+- [ ] 20L jerry can for emergency fuel
+- [ ] 10L water container
+- [ ] Tow rope
+- [ ] Jump leads
+
+### Practical Tips
+
+**Connectivity**
+- Buy an **MTC SIM card** at Windhoek airport on arrival (~NAD 10)
+- Best tourist plan: 18GB data + 300 minutes for 30 days = NAD 290 (~EUR 14)
+- Signal is good in towns and along main roads; patchy to non-existent in Skeleton Coast, deep Damaraland, and parts of Etosha
+- **Download everything offline** before leaving Windhoek
+
+**Best Time to Visit**
+- **Dry season (May–Oct)**: Best wildlife viewing, comfortable temps, no rain. Peak season = higher prices.
+- **Shoulder (Apr, Nov)**: Fewer crowds, reasonable weather, better prices.
+- **Wet season (Dec–Mar)**: Hot (40°C+), some roads impassable, but green landscapes and cheapest prices.
+
+**Photography Tips**
+- Dunes and Spitzkoppe are best at sunrise/sunset (golden hour)
+- Etosha game drives are best in early morning and late afternoon
+- Dust is everywhere — keep camera in a sealed bag when driving
+- A beanbag on the car window makes a great stabilizer for wildlife shots
+
+**Water**
+- Carry **10L+ drinking water** in the vehicle at all times
+- Budget 5L per person per day in the desert
+- Tap water is safe in Windhoek and Swakopmund
+- Buy bottled water or fill up at towns before remote stretches
+
+**Electricity**
+- Namibia uses **Type D and Type M plugs** (round 3-pin, same as South Africa)
+- Many campsites have power points at sites; some don't — bring a power bank
+- Use the car cigarette lighter / USB for charging during drives
 
 ---
 

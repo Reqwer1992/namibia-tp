@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Namibia 14-Day Self-Drive Route</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        #map { width: 100%; height: 100vh; }
+
+        .legend {
+            background: white;
+            padding: 12px 16px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+            font-size: 13px;
+            line-height: 1.8;
+        }
+        .legend h4 {
+            margin-bottom: 6px;
+            font-size: 14px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .legend-line {
+            width: 24px;
+            height: 3px;
+            border-radius: 2px;
+        }
+        .legend-circle {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 0 2px rgba(0,0,0,0.4);
+        }
+
+        .day-label {
+            background: none;
+            border: none;
+            font-weight: 700;
+            font-size: 11px;
+            color: #1a1a2e;
+            text-shadow: 1px 1px 2px white, -1px -1px 2px white, 1px -1px 2px white, -1px 1px 2px white;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        const map = L.map('map', { zoomControl: true });
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            maxZoom: 18
+        }).addTo(map);
+
+        // Overnight stops (main route markers)
+        const stops = [
+            { day: 1,  lat: -22.5609, lng: 17.0658, name: "Windhoek",       activity: "Arrive, pick up vehicle & supplies" },
+            { day: 2,  lat: -24.4800, lng: 15.8300, name: "Sesriem",        activity: "Sesriem Canyon" },
+            { day: 3,  lat: -24.4800, lng: 15.8300, name: "Sesriem",        activity: "Dune 45, Deadvlei, Big Daddy", sameAs: 2 },
+            { day: 4,  lat: -22.6784, lng: 14.5268, name: "Swakopmund",     activity: "Scenic C14 drive via Solitaire" },
+            { day: 5,  lat: -22.6784, lng: 14.5268, name: "Swakopmund",     activity: "Cape Cross & Walvis Bay day trips", sameAs: 4 },
+            { day: 6,  lat: -21.8242, lng: 15.1933, name: "Spitzkoppe",     activity: "Rock Arch, sunset, stargazing" },
+            { day: 7,  lat: -20.5927, lng: 14.3758, name: "Twyfelfontein",  activity: "UNESCO rock engravings" },
+            { day: 8,  lat: -20.5927, lng: 14.3758, name: "Damaraland",     activity: "Petrified Forest, desert elephants", sameAs: 7 },
+            { day: 9,  lat: -19.1803, lng: 15.9197, name: "Etosha (Okaukuejo)", activity: "First game drive, floodlit waterhole" },
+            { day: 10, lat: -19.0344, lng: 16.4678, name: "Etosha (Halali)",    activity: "Game drives, waterholes" },
+            { day: 11, lat: -18.8033, lng: 16.9478, name: "Etosha (Namutoni)",  activity: "Game drives, Fischer's Pan" },
+            { day: 12, lat: -20.7833, lng: 16.7500, name: "Okonjima",       activity: "Leopard tracking, AfriCat" },
+            { day: 13, lat: -22.5609, lng: 17.0658, name: "Windhoek",       activity: "Return, farewell dinner", sameAs: 1 },
+            { day: 14, lat: -22.4800, lng: 17.4700, name: "Windhoek Airport", activity: "Depart Namibia" }
+        ];
+
+        // Day trip / side trip locations
+        const dayTrips = [
+            { lat: -21.7567, lng: 13.9550, name: "Cape Cross",   activity: "~200,000 Cape fur seals", fromDay: 5 },
+            { lat: -22.9575, lng: 14.5053, name: "Walvis Bay",   activity: "Flamingos, pelicans, kayaking", fromDay: 5 },
+            { lat: -24.7600, lng: 15.2900, name: "Sossusvlei",   activity: "Deadvlei & Big Daddy dunes", fromDay: 3 },
+            { lat: -23.8900, lng: 16.0100, name: "Solitaire",    activity: "Famous apple pie & fuel stop", fromDay: 4 }
+        ];
+
+        // Custom marker icons
+        function createIcon(color, size) {
+            return L.divIcon({
+                className: '',
+                html: `<div style="
+                    width: ${size}px; height: ${size}px;
+                    background: ${color};
+                    border: 3px solid white;
+                    border-radius: 50%;
+                    box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+                "></div>`,
+                iconSize: [size, size],
+                iconAnchor: [size / 2, size / 2],
+                popupAnchor: [0, -size / 2]
+            });
+        }
+
+        const overnightIcon = createIcon('#e63946', 18);  // red
+        const dayTripIcon   = createIcon('#f4a261', 14);   // amber
+        const startEndIcon  = createIcon('#2d6a4f', 22);   // green
+
+        // Route polyline coordinates (unique stops in order)
+        const routeCoords = [
+            [-22.5609, 17.0658],  // Windhoek
+            [-24.4800, 15.8300],  // Sesriem
+            [-22.6784, 14.5268],  // Swakopmund
+            [-21.8242, 15.1933],  // Spitzkoppe
+            [-20.5927, 14.3758],  // Twyfelfontein
+            [-19.1803, 15.9197],  // Okaukuejo
+            [-19.0344, 16.4678],  // Halali
+            [-18.8033, 16.9478],  // Namutoni
+            [-20.7833, 16.7500],  // Okonjima
+            [-22.5609, 17.0658],  // Windhoek
+            [-22.4800, 17.4700]   // Airport
+        ];
+
+        // Draw the route
+        L.polyline(routeCoords, {
+            color: '#264653',
+            weight: 3,
+            opacity: 0.8,
+            dashArray: '8, 6'
+        }).addTo(map);
+
+        // Day trip connector lines (dashed, lighter)
+        const dayTripLines = [
+            { from: [-22.6784, 14.5268], to: [-21.7567, 13.9550] }, // Swakopmund → Cape Cross
+            { from: [-22.6784, 14.5268], to: [-22.9575, 14.5053] }, // Swakopmund → Walvis Bay
+            { from: [-24.4800, 15.8300], to: [-24.7600, 15.2900] }, // Sesriem → Sossusvlei
+            { from: [-24.4800, 15.8300], to: [-23.8900, 16.0100] }  // Sesriem → Solitaire (on route)
+        ];
+
+        dayTripLines.forEach(line => {
+            L.polyline([line.from, line.to], {
+                color: '#f4a261',
+                weight: 2,
+                opacity: 0.6,
+                dashArray: '4, 6'
+            }).addTo(map);
+        });
+
+        // Place overnight markers
+        const placed = {};  // track placed locations to offset overlapping days
+
+        stops.forEach(stop => {
+            const key = `${stop.lat},${stop.lng}`;
+            const icon = (stop.day === 1 || stop.day === 14) ? startEndIcon : overnightIcon;
+
+            // Build popup content
+            let daysText;
+            if (stop.sameAs) {
+                // Find all days at this location
+                const allDays = stops.filter(s => s.lat === stop.lat && s.lng === stop.lng).map(s => s.day);
+                daysText = `Days ${allDays.join(' & ')}`;
+            } else {
+                daysText = `Day ${stop.day}`;
+            }
+
+            // Only place one marker per unique location
+            if (stop.sameAs) return;
+
+            const allAtLocation = stops.filter(s => s.lat === stop.lat && s.lng === stop.lng);
+            const popupLines = allAtLocation.map(s =>
+                `<strong>Day ${s.day}</strong>: ${s.activity}`
+            ).join('<br>');
+
+            const popup = `
+                <div style="min-width: 180px;">
+                    <h3 style="margin: 0 0 6px; font-size: 15px; color: #1a1a2e;">${stop.name}</h3>
+                    <div style="font-size: 13px; color: #333; line-height: 1.6;">
+                        ${popupLines}
+                    </div>
+                </div>
+            `;
+
+            L.marker([stop.lat, stop.lng], { icon })
+                .addTo(map)
+                .bindPopup(popup);
+
+            // Add day label
+            const dayNums = allAtLocation.map(s => s.day);
+            const labelText = dayNums.length > 1 ? `D${dayNums.join(',')}` : `D${dayNums[0]}`;
+
+            L.marker([stop.lat, stop.lng], {
+                icon: L.divIcon({
+                    className: 'day-label',
+                    html: labelText,
+                    iconSize: [40, 16],
+                    iconAnchor: [-6, 8]
+                }),
+                interactive: false
+            }).addTo(map);
+
+            placed[key] = true;
+        });
+
+        // Place day trip markers
+        dayTrips.forEach(trip => {
+            const popup = `
+                <div style="min-width: 160px;">
+                    <h3 style="margin: 0 0 4px; font-size: 14px; color: #e76f51;">${trip.name}</h3>
+                    <div style="font-size: 13px; color: #333;">
+                        ${trip.activity}<br>
+                        <em style="color: #666;">Day trip from Day ${trip.fromDay}</em>
+                    </div>
+                </div>
+            `;
+
+            L.marker([trip.lat, trip.lng], { icon: dayTripIcon })
+                .addTo(map)
+                .bindPopup(popup);
+        });
+
+        // Fit map to show all markers
+        const allPoints = [
+            ...stops.map(s => [s.lat, s.lng]),
+            ...dayTrips.map(t => [t.lat, t.lng])
+        ];
+        map.fitBounds(allPoints, { padding: [40, 40] });
+
+        // Legend control
+        const legend = L.control({ position: 'bottomright' });
+        legend.onAdd = function () {
+            const div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = `
+                <h4>Namibia 14-Day Route</h4>
+                <div class="legend-item">
+                    <div class="legend-circle" style="background: #2d6a4f;"></div>
+                    Start / End
+                </div>
+                <div class="legend-item">
+                    <div class="legend-circle" style="background: #e63946;"></div>
+                    Overnight stop
+                </div>
+                <div class="legend-item">
+                    <div class="legend-circle" style="background: #f4a261;"></div>
+                    Day trip
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line" style="background: #264653; border-top: 2px dashed #264653; background: none;"></div>
+                    Driving route
+                </div>
+            `;
+            return div;
+        };
+        legend.addTo(map);
+    </script>
+</body>
+</html>

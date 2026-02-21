@@ -151,3 +151,21 @@ Research what Latvian citizens need to legally drive in Namibia — whether a La
 - [x] **Update README.md**: Add driving license requirements to the Entry Requirements or Vehicle Rental section
 - [ ] **Push to git**: Commit and push all Phase 7 changes
 - [ ] **Manual verification**: User verifies results
+
+---
+
+## Phase 8: Road Conditions & How to Check Them
+
+### Overview
+Research how to get current road condition information in Namibia — official sources, community platforms, apps, on-the-ground methods, and key contacts. Also assess current (February 2026) rainy season road conditions for every road on the itinerary.
+
+### Steps
+
+- [x] **Research**: Investigate official road condition sources (Roads Authority, flood monitors), community/crowdsourced platforms (Tracks4Africa, iOverlander, 4x4 forums, Facebook groups), on-the-ground methods (campsite hosts, fuel stations, rental companies), and current February 2026 rainy season conditions for all roads on the itinerary. Document findings in `ai/research-phase8.md`
+- [x] **How to check conditions**: Document all sources and methods travelers can use before and during the trip, with links and phone numbers
+- [x] **Current conditions assessment**: Route-by-route risk assessment for every road on the itinerary (B1, B2, C24, C14, D1918, Damaraland D-roads, Etosha park roads) with specific February 2026 rainy season findings
+- [x] **Key contacts**: Compile phone numbers for Roads Authority, NWR, AA Namibia, and regional breakdown contacts
+- [x] **Rainy season driving rules**: Practical rules for driving during the wet season
+- [x] **Update README.md**: Add "Road Conditions" section with all findings
+- [ ] **Push to git**: Commit and push all Phase 8 changes
+- [ ] **Manual verification**: User verifies results

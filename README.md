@@ -13,6 +13,7 @@
 - [Budget](#budget)
 - [Packing List & Practical Tips](#packing-list--practical-tips)
 - [Safety & Things to Avoid](#safety--things-to-avoid)
+- [Road Conditions](#road-conditions)
 - [March Travel Notes](#march-travel-notes)
 
 ---
@@ -619,6 +620,92 @@ Namibia is **one of the safest countries in Africa** for tourists. Self-drive to
 - EU Delegation in Namibia: +264 (0) 63 200 2202
 - German Embassy Windhoek: +264 61 273 100
 - Latvian MFA 24/7 emergency: +371 2 6111 111
+
+---
+
+## Road Conditions
+
+### The Problem: No Centralized System
+
+Namibia has **no live, centralized road condition reporting system**. The Roads Authority website does not have a road status page. Getting current conditions requires combining multiple sources — official channels, community platforms, apps, and on-the-ground intelligence.
+
+This is especially critical during the rainy season (November–April) when gravel roads and river crossings can become impassable within hours.
+
+### How to Check Road Conditions
+
+#### Before the Trip
+
+1. **Download essential apps**:
+   - [Tracks4Africa Guide](https://tracks4africa.co.za/) (~USD 10–15) — the single most important tool. Detailed offline GPS maps with road surface types and quality ratings. Not real-time, but the best baseline.
+   - [iOverlander](https://ioverlander.com/) (free) — crowdsourced warnings. Only flags roads that are **not passable** (2+ hour reroute needed), so any warning here is serious.
+   - Google Maps / Maps.me — download offline maps for all of Namibia
+
+2. **Follow on social media**:
+   - **Roads Authority Facebook** ("Roads Authority RA Namibia") — posts road closure notices
+   - **Roads Authority Twitter/X** (@RANamibia)
+
+3. **Read recent reports**:
+   - [4x4 Community Forum — Namibia Road Conditions](https://www.4x4community.co.za/forum/showthread.php/293513) — the most active English-language forum with route-by-route traveler reports
+   - [TripAdvisor Namibia Forum](https://www.tripadvisor.com/ShowForum-g293820-i9680-Namibia.html) — post your route and dates for local advice
+
+4. **Check flood forecasts**:
+   - [Namibia Flood and Drought Monitor](https://hydrology.soton.ac.uk/apps/nam_app/) — 10-day flood forecasts updated daily, by region
+
+5. **Facebook groups** (search directly on Facebook):
+   - "Self Drive Namibia"
+   - "Namibia Travel" / "Namibia Tourism"
+   - "Overlanding Southern Africa"
+   - "4x4 Namibia"
+
+#### On the Road (Daily Routine)
+
+These on-the-ground sources are often **more reliable** than anything online:
+
+1. **Campsite hosts / lodge reception** — your single best resource. Every evening, ask: *"What are the road conditions between here and [next destination]?"* They talk to dozens of travelers daily and maintain informal networks with other lodges.
+
+2. **Fuel station attendants** — see every vehicle passing through. Especially useful at Solitaire, Uis, Khorixas, and Kamanjab.
+
+3. **Other travelers** — people coming from the opposite direction know exactly what to expect. Ask at campsites and fuel stops.
+
+4. **Park gates** (Etosha, Namib-Naukluft) — ask gate staff and NWR camp reception which internal roads are muddy or closed.
+
+5. **Your rental company** — call them if unsure about a route. They track conditions because their vehicles are at stake.
+
+#### Key Contacts
+
+| Contact | Number | Use |
+|---------|--------|-----|
+| Roads Authority | +264 61 284 7000 | Road closures, bridge status |
+| Roads Authority email | pr@ra.org.na | Non-urgent inquiries |
+| NWR Reservations | +264 81 180 0016 | Etosha park road conditions (Mon–Fri 8–5) |
+| AA Namibia 24/7 | +264 81 555 9432 | Roadside assistance, breakdowns |
+| AA Namibia (alt) | +264 85 25 555 00 | Roadside assistance |
+| Weinmann's Garage (Outjo) | 081 129 9779 | Breakdown near Etosha |
+
+### Current Conditions — February 2026
+
+> **Context**: February is deep in the rainy season. The 2024–2025 season caused extensive road damage that exceeded the Roads Authority's repair budget. The 2025–2026 season is ongoing with active storm warnings.
+
+#### Route-by-Route Assessment
+
+| Road | Section | Risk Level | Status |
+|------|---------|------------|--------|
+| **B1** (tar) | Windhoek ↔ South / Otjiwarongo | **Low** | Generally fine. Aris River Bridge (near Windhoek) collapsed March 2025 — temp bypass installed, confirm permanent repair status. Potholes possible after rain. |
+| **B2** (tar) | Windhoek ↔ Swakopmund | **Low** | Paved, heavily trafficked. Generally fine. |
+| **C24** (gravel) | Windhoek → Sesriem | **Low–Medium** | Corrugation and possible washouts. Tsauchab River has flooded recently — river crossings may be temporarily impassable. Ask at Solitaire or Sesriem. |
+| **C14** (gravel) | Sesriem → Swakopmund via Kuiseb Pass | **High** | Became **impassable** during 2025 rains. Heavy corrugation, loose rock, slippery when wet. Lower Kuiseb catchment is flood-prone. **Have a backup plan** — return to B1 and take B2 instead (longer but all tar). |
+| **D1918** (gravel) | To Spitzkoppe | **Medium** | Passable with 4x4. Two rough sections: first 40 km from Usakos and area near Spitzkoppe. Watch for soft sand after rain. |
+| **D-roads** | Damaraland / Twyfelfontein | **Medium–High** | D2612 (to Twyfelfontein) had structural damage in 2025. No constructed river crossings — flash floods come and go quickly. Get conditions from Uis or Khorixas first. 4x4 essential. |
+| **Park roads** | Etosha | **Low–Medium** | Main loop (Okaukuejo–Halali–Namutoni) should be passable. Expect deep ruts and puddles. Some side roads may close. Anderson Gate → Okaukuejo and Von Lindequist Gate → Namutoni are paved. |
+
+#### Key Rules for Rainy Season Driving
+
+1. **Start early** — afternoon thunderstorms are the norm. Aim to be at camp by 15:00–16:00.
+2. **Never cross flowing water** — if a river crossing has water flowing fast or above 50 cm, wait. Flash floods recede quickly.
+3. **Ask before you drive** — every evening, ask your campsite host about tomorrow's road.
+4. **Have alternative routes** — especially for the C14 (use B1+B2 instead) and Damaraland D-roads.
+5. **Carry a 20L jerry can** — fuel stations can be 200+ km apart, and detours add distance.
+6. **Check the flood monitor** — [hydrology.soton.ac.uk/apps/nam_app/](https://hydrology.soton.ac.uk/apps/nam_app/) each morning when you have signal.
 
 ---
 

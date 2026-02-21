@@ -8,7 +8,7 @@
 
 - [Entry Requirements](#entry-requirements)
 - [Flight Options](#flight-options)
-- [Vehicle Rental & Camping](#vehicle-rental--camping) *(Phase 2)*
+- [Vehicle Rental & Camping](#vehicle-rental--camping)
 - [Itinerary](#itinerary) *(Phase 3)*
 - [Budget](#budget) *(Phase 4)*
 - [Packing List & Practical Tips](#packing-list--practical-tips) *(Phase 4)*
@@ -108,7 +108,106 @@ British Airways has a **codeshare partnership with Airlink** (since Feb 2023). T
 
 ## Vehicle Rental & Camping
 
-*Coming in Phase 2.*
+### Recommended Rental Companies
+
+#### 1. Namibia2Go (Best Value)
+
+- **Website**: [namibia2go.com](https://namibia2go.com/)
+- **Vehicle**: Toyota Hilux Double Cab (automatic), brand new fleet
+- **Low season (Nov–Jun)**: ~NAD 2,376/day (~EUR 117) for 15+ days
+- **High season (Jul–Oct)**: ~NAD 3,520/day (~EUR 173)
+- **Standout features**:
+  - **Zero-excess insurance included** in the rate (premium cover)
+  - 2 spare tyres included
+  - Brand new vehicles
+  - Full camping kit: 2 rooftop tents, fridge, gas cooker, cookware, table, chairs, bedding
+
+#### 2. Asco Car Hire (Strong Alternative)
+
+- **Website**: [ascocarhire.com](https://www.ascocarhire.com/)
+- **Vehicle**: Toyota Hilux 2.4L / Safari 2.8L / Landcruiser 2.8L (all automatic)
+- **Low season**: ~EUR 105–110/day (6-15 days)
+- **Peak (Jul–Aug)**: ~EUR 200–205/day
+- **Included**: Roof tent, fridge, cookware, BBQ grill, unlimited mileage, 24/7 breakdown service
+- **Insurance**: Standard cover included; excess-reduction tiers available at extra cost
+
+#### 3. Britz
+
+- **Website**: [britz.co.za](https://www.britz.co.za/)
+- Large international brand (also operates in Australia, NZ, South Africa)
+- 11 different 4x4 camper models available in Windhoek
+- Includes tents, bedding, fridge, kitchen gear, free airport transfers
+- Mid-to-premium pricing; minimum 3-day rental
+
+#### 4. Camel Car Hire
+
+- **Website**: [camel-carhire.com](https://camel-carhire.com/)
+- Family-run, 15+ years experience
+- Competitive rates with seasonal and early-booking discounts
+- Free airport transfers, roadside assistance
+
+**Estimated 14-day vehicle cost: EUR 1,500–2,200** (depending on season and company)
+
+### What's Typically Included
+
+All major rental companies provide camping-equipped 4x4s with:
+- 1–2 rooftop tents (sleep 2–4 people)
+- Fridge/cooler
+- Gas cooker
+- Pots, pans, plates, cutlery
+- Camping table and chairs
+- Bedding (pillows, duvets)
+- 1–2 spare tyres
+- Free airport/hotel transfers in Windhoek
+- Unlimited mileage
+
+### Campsites & Booking
+
+**NWR Campsites (National Parks)**
+- Managed by [Namibia Wildlife Resorts](https://www.nwr.com.na/)
+- Located in Etosha, Sossusvlei area, Waterberg, etc.
+- Rates: ~NAD 180–220/site/night (~EUR 9–11)
+- Facilities: ablution blocks, braai pits, sometimes shops and pools
+- **Book well in advance** for peak season (May–October) — they sell out months ahead
+
+**National Park Entry Fees**
+- NAD 60/person/day (~EUR 3) + NAD 10/vehicle/day
+- Applies to: Etosha, Sossusvlei (Namib-Naukluft), Skeleton Coast, Ai-Ais
+
+**Private & Community Campsites**
+- Available throughout the country outside national parks
+- Often better facilities and easier availability
+- Prices vary: ~NAD 150–400/site/night
+
+**Wild Camping**
+- **Not allowed** in national parks or reserves
+- Possible on private/communal land with landowner permission
+- Recommended: stick to designated campsites for safety and legality
+
+### Fuel
+
+- **Diesel**: ~NAD 20/litre (~EUR 1.00/L)
+- **Petrol**: ~NAD 20.60/litre (~EUR 1.01/L)
+- Stations can be **200+ km apart** in remote areas (Skeleton Coast, Damaraland)
+- **Rule: never let the tank drop below half**
+- Fill up at every opportunity; carry a 20L jerry can for emergencies
+- Most stations accept cards, but carry cash for rural stations
+
+**Key fuel stops along common routes**: Windhoek, Solitaire, Sesriem, Swakopmund, Walvis Bay, Uis, Outjo, Otjiwarongo, Etosha (Okaukuejo & Namutoni), Khorixas
+
+**Estimated fuel budget (~3,500–4,000 km)**: ~NAD 9,000–10,000 (~EUR 450–500)
+
+### Driving Tips
+
+- **Drive on the LEFT** (same as UK)
+- **85%+ of roads are gravel** — this is normal
+- **Max 80 km/h on gravel**, often slower is safer
+- **Never drive after dark** — animals, no markings, invisible potholes
+- **Reduce tyre pressure 10–20%** on gravel for better grip (re-inflate on tar)
+- Allow more time than Google Maps suggests — gravel is slow
+- Aim for **max 300–400 km/day**, arrive at camp before dark
+- **Tyre blowouts are common** — know how to change a tyre before you go
+- Download **offline maps** (Maps.me or Tracks4Africa) + carry a paper map
 
 ---
 

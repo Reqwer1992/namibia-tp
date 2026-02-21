@@ -34,7 +34,7 @@ Research Namibia entry rules for Latvian citizens and find British Airways fligh
 - [x] **Entry requirements summary**: Write up a clear checklist of documents, vaccinations, and rules needed to enter Namibia as a Latvian citizen
 - [x] **Flight options**: Document BA flight routes, typical layover cities, flight duration, and approximate pricing for the travel dates
 - [x] **Create README.md**: Create initial README.md with project description, entry requirements section, and flight options section
-- [ ] **Push to git**: Commit and push all Phase 1 changes
+- [x] **Push to git**: Commit and push all Phase 1 changes
 - [ ] **Manual verification**: User verifies Phase 1 results
 
 ---
@@ -46,12 +46,12 @@ Research 4x4 camper / rooftop-tent vehicle rental companies in Namibia, costs, i
 
 ### Steps
 
-- [ ] **Research**: Investigate camper/4x4 rental companies in Windhoek (e.g., Asco Car Hire, Britz, Camel Car Hire, Namibia2Go), pricing for ~14 days, insurance options, what's included (camping gear, GPS, sat phone), fuel costs, and campsite booking systems. Document findings in `ai/research-phase2.md`
-- [ ] **Verify plan**: Review research from `ai/research-phase2.md` and verify that the steps below are correct and complete. Adjust if needed.
-- [ ] **Vehicle comparison**: Create a comparison of top 3-4 rental companies with pricing, vehicle types, and what's included
-- [ ] **Camping logistics**: Document campsite booking (NWR for national park campsites), wild camping rules, water/fuel station locations along major routes
-- [ ] **Driving tips**: Road conditions, gravel road driving, fuel range planning, emergency contacts
-- [ ] **Update README.md**: Add vehicle rental and camping logistics sections
+- [x] **Research**: Investigate camper/4x4 rental companies in Windhoek (e.g., Asco Car Hire, Britz, Camel Car Hire, Namibia2Go), pricing for ~14 days, insurance options, what's included (camping gear, GPS, sat phone), fuel costs, and campsite booking systems. Document findings in `ai/research-phase2.md`
+- [x] **Verify plan**: Review research from `ai/research-phase2.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **Vehicle comparison**: Create a comparison of top 3-4 rental companies with pricing, vehicle types, and what's included
+- [x] **Camping logistics**: Document campsite booking (NWR for national park campsites), wild camping rules, water/fuel station locations along major routes
+- [x] **Driving tips**: Road conditions, gravel road driving, fuel range planning, emergency contacts
+- [x] **Update README.md**: Add vehicle rental and camping logistics sections
 - [ ] **Push to git**: Commit and push all Phase 2 changes
 - [ ] **Manual verification**: User verifies Phase 2 results
 

@@ -113,3 +113,41 @@ Research safety in Namibia, common dangers, tourist scams, cultural do's and don
 - [x] **Update README.md**: Add safety and "things to avoid" sections. Final review of the complete README.
 - [x] **Push to git**: Commit and push all Phase 5 changes
 - [ ] **Manual verification**: User verifies final plan
+
+---
+
+## Phase 6: Early March Season Review
+
+### Overview
+Validate the entire trip plan against early March conditions. March falls in Namibia's late rainy season — research how this affects road conditions, wildlife viewing, temperatures, campsite availability, malaria risk, and whether the current itinerary needs adjustments.
+
+### Steps
+
+- [x] **Research**: Investigate Namibia conditions in early March — weather/temperatures by region, rainfall patterns, road conditions (which gravel roads become impassable?), Etosha game viewing in wet season, Sossusvlei conditions, flash flood risk, malaria risk level, tourist crowd levels, and vehicle rental pricing. Document findings in `ai/research-phase6.md`
+- [x] **Verify plan**: Review research from `ai/research-phase6.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **Weather & conditions summary**: Document expected temperatures, rainfall, and daylight hours for each region on the itinerary in early March
+- [x] **Road condition review**: Identify any roads on the current itinerary that may be impassable or risky in the rainy season (e.g., C14 Kuiseb Pass route, D-roads in Damaraland, river crossings)
+- [x] **Itinerary adjustments**: Evaluate whether the current route and day-by-day plan works for March, or if stops/order/routes need changing. Document recommended changes.
+- [x] **Etosha in wet season**: Assess game viewing quality — animals disperse from waterholes in the wet season. Is 3 nights still worth it? Are certain areas of the park better in March?
+- [x] **Malaria risk update**: March is peak rainy season — reassess malaria risk level for the northern stops and update prophylaxis advice if needed
+- [x] **Pros & cons of March travel**: Document the advantages (green landscapes, fewer tourists, lower prices, migratory birds, baby animals) and disadvantages (heat, rain, mud, reduced wildlife visibility, malaria) of visiting in early March
+- [x] **Update README.md**: Add a "March Travel Notes" section or update existing sections with March-specific advice. Flag any itinerary changes.
+- [ ] **Push to git**: Commit and push all Phase 6 changes
+- [ ] **Manual verification**: User verifies final plan
+
+---
+
+## Phase 7: Driving License Requirements
+
+### Overview
+Research what Latvian citizens need to legally drive in Namibia — whether a Latvian (EU) driving license is accepted, International Driving Permit requirements, rental company policies, and police checkpoint practices.
+
+### Steps
+
+- [x] **Research**: Investigate Namibian law on foreign driving licenses, IDP requirements (1949 vs 1968 convention), Latvian CSDD IDP issuance process, rental company requirements, police roadblock practices, and penalties. Document findings in `ai/research-phase7.md`
+- [x] **Verify plan**: Review research from `ai/research-phase7.md` and verify that the steps below are correct and complete. Adjust if needed.
+- [x] **Driving license summary**: Write up clear guidance on what documents are needed to drive in Namibia with a Latvian license
+- [x] **IDP instructions**: Document how to obtain an IDP from CSDD (cost, processing time, required documents)
+- [x] **Update README.md**: Add driving license requirements to the Entry Requirements or Vehicle Rental section
+- [ ] **Push to git**: Commit and push all Phase 7 changes
+- [ ] **Manual verification**: User verifies results

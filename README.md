@@ -13,6 +13,7 @@
 - [Budget](#budget)
 - [Packing List & Practical Tips](#packing-list--practical-tips)
 - [Safety & Things to Avoid](#safety--things-to-avoid)
+- [March Travel Notes](#march-travel-notes)
 
 ---
 
@@ -39,10 +40,29 @@ As of April 2025, Latvia is no longer visa-free for Namibia. You need a visa.
 - Valid for **at least 6 months** beyond date of entry
 - **At least 3 blank pages** for entry/exit stamps
 
+### Driving License
+
+A Latvian driving license is **not in English**, so Namibian law requires you to carry an **International Driving Permit (IDP)** alongside it.
+
+**How to get an IDP from CSDD (Latvia)**:
+- Apply at a [CSDD service centre](https://www.csdd.lv/en/international-driving-permit-idp/issue-procedure) or online via e-CSDD
+- Cost: **EUR 19.84**
+- Processing: **2–3 working days**
+- Validity: 3 years (or until your Latvian license expires)
+- The IDP is only valid **together with** your original Latvian driving license
+
+**Important notes**:
+- Latvia issues a 1968 Vienna Convention IDP; Namibia is party to the 1949 Geneva Convention. In practice, the 1968 IDP is accepted — it serves the same translation function.
+- **Both drivers** need their own Latvian license + their own IDP
+- Police roadblocks are common in Namibia — have documents ready in the vehicle
+- Confirm with your rental company before departure that they accept a Latvian license + IDP
+- Driving without valid documentation: fines of NAD 500–3,000 (~EUR 25–150)
+
 ### Documents Checklist
 
 - [ ] Valid passport (6+ months validity, 3+ blank pages)
 - [ ] E-visa approval (apply in advance)
+- [ ] International Driving Permit (IDP) from CSDD — both drivers
 - [ ] Return flight ticket (or onward travel proof)
 - [ ] Proof of accommodation / travel itinerary
 - [ ] Travel insurance (mandatory for visa) — must cover medical and travel-related issues
@@ -438,7 +458,7 @@ Counter-clockwise loop from Windhoek: south to the dunes, west to the coast, nor
 - [ ] Travel insurance documents (printed)
 - [ ] Flight tickets / booking confirmations (printed)
 - [ ] Campsite booking confirmations
-- [ ] International driving permit (recommended, though not always required)
+- [ ] International Driving Permit (IDP) from CSDD — **required** (both drivers)
 - [ ] Credit/debit cards + cash (NAD or ZAR)
 - [ ] Copies of all documents (digital + paper)
 
@@ -504,7 +524,7 @@ Counter-clockwise loop from Windhoek: south to the dunes, west to the coast, nor
 **Best Time to Visit**
 - **Dry season (May–Oct)**: Best wildlife viewing, comfortable temps, no rain. Peak season = higher prices.
 - **Shoulder (Apr, Nov)**: Fewer crowds, reasonable weather, better prices.
-- **Wet season (Dec–Mar)**: Hot (40°C+), some roads impassable, but green landscapes and cheapest prices.
+- **Wet season (Dec–Mar)**: Hot (30–35°C, up to 40°C), afternoon thunderstorms, some D-roads impassable, but green landscapes, baby animals, spectacular birding, and cheapest prices. See [March Travel Notes](#march-travel-notes) for detailed guidance.
 
 **Photography Tips**
 - Dunes and Spitzkoppe are best at sunrise/sunset (golden hour)
@@ -599,3 +619,116 @@ Namibia is **one of the safest countries in Africa** for tourists. Self-drive to
 - EU Delegation in Namibia: +264 (0) 63 200 2202
 - German Embassy Windhoek: +264 61 273 100
 - Latvian MFA 24/7 emergency: +371 2 6111 111
+
+---
+
+## March Travel Notes
+
+> Early March falls in Namibia's late rainy season ("green season"). This section covers how March conditions affect the trip.
+
+### Weather Summary
+
+| Region on Itinerary | High °C | Low °C | Rain (mm/month) | Rainy Days |
+|---------------------|---------|--------|-----------------|------------|
+| Windhoek | 30 | 16 | ~80 | ~8 |
+| Sossusvlei / Sesriem | 29–34 | 15–20 | 15–39 | ~3 |
+| Swakopmund / Coast | 20–25 | 15 | ~0 | 0 |
+| Spitzkoppe | ~30 | ~16 | ~30 | ~4 |
+| Damaraland | ~29 | ~17 | ~50–60 | ~5–6 |
+| Etosha | 32–34 | 19 | ~80 | ~6–8 |
+| Okonjima | ~30 | ~17 | ~70 | ~7 |
+
+**Pattern**: Rain falls as short, intense afternoon/evening thunderstorms. Mornings are typically clear. The coast (Swakopmund) stays cool and dry.
+
+**Daylight**: ~12.5 hours (sunrise ~06:47, sunset ~19:19). Ample time for activities.
+
+### Road Conditions in March
+
+The current itinerary uses these roads — here's how they fare in the rainy season:
+
+| Road | Section | March Risk | Notes |
+|------|---------|------------|-------|
+| B1 (tar) | Windhoek ↔ Sesriem, Windhoek ↔ Etosha | **Low** | Tar road, generally fine |
+| B2 (tar) | Swakopmund ↔ Windhoek | **Low** | Tar road, generally fine |
+| C24 (gravel) | Windhoek → Sesriem | **Low–Medium** | Can deteriorate after heavy rain |
+| C14 (gravel) | Sesriem → Swakopmund via Kuiseb Pass | **Medium** | Steep gradients, corrugations. Crosses Kuiseb River ford — **check conditions before driving**. Slippery when wet. |
+| D1918 (gravel) | To Spitzkoppe | **Medium** | Good when dry, deteriorates after rain. 4x4 recommended. |
+| D-roads | Damaraland | **Medium–High** | Cross dry riverbeds (Ugab, Huab) that can flood. 4x4 essential. Check locally before driving. |
+| Park roads | Etosha | **Low–Medium** | Maintained gravel. Some seasonal roads may close after heavy rain. |
+
+**Key rule**: After heavy rain, ask locals or your campsite hosts about road conditions before setting off. River crossings can flood suddenly — never cross if water is flowing fast or above 50 cm.
+
+### Itinerary Adjustments for March
+
+**The current route works for March** with these notes:
+
+1. **Day 4 (C14 Sesriem → Swakopmund)**: This is the highest-risk road segment. If heavy rain has occurred, consider the **alternative B2 route** via Windhoek — longer (480 km) but all tar. Check conditions at Sesriem camp reception before departing.
+
+2. **Day 8 (Damaraland D-roads)**: Desert elephant tracking along riverbeds may be affected if rivers are flowing. Ask locally. The Petrified Forest is accessible in all conditions.
+
+3. **Days 9–11 (Etosha)**: Game viewing changes significantly — see section below. Consider spending more time at **Namutoni** for the exceptional March birding at Fischer's Pan.
+
+4. **All days**: Start driving earlier in the morning (before afternoon thunderstorms). Aim to be at camp by 15:00–16:00 to avoid driving in storms.
+
+5. **Heat management**: Plan outdoor activities (dune climbing, hiking) for early morning. Rest during midday heat (12:00–15:00).
+
+### Etosha in the Wet Season
+
+Game viewing in March is **different from dry season, not worse** — just set expectations accordingly:
+
+**What changes**:
+- Animals **disperse** from waterholes because water is available everywhere. You won't see the large herds gathered at permanent waterholes that define the dry-season experience.
+- Dense green vegetation makes spotting animals harder.
+- Classic "Big Five waterhole" viewing is reduced.
+
+**What you gain**:
+- **Baby animals** — springbok, zebra, and wildebeest calves born in January/February
+- **Up to 1 million flamingos** — Fischer's Pan and the great salt pan hold shallow water, attracting massive flamingo flocks (both greater and lesser), pelicans, storks, and other waterbirds
+- **340+ bird species** including migratory species only present in the wet season
+- **Green landscapes** with dramatic thunderstorm skies — unique photography opportunities
+- **Fewer tourists** — quieter camps, less competition at waterholes
+
+**Best areas in March**:
+- **Namutoni (east)**: Best for birding — closest to Fischer's Pan. Also good for cheetah.
+- **Okaukuejo (south)**: Floodlit waterhole still attracts animals, especially as March progresses. Best for nighttime rhino/elephant sightings.
+
+**Verdict**: 3 nights is still worth it. The birding alone justifies it. Consider reordering to spend the final Etosha night at Namutoni to maximize the eastern-side birding experience (the current itinerary already does this).
+
+### Malaria Risk Update (March 2026)
+
+**Elevated risk.** March is within the peak malaria transmission window (November–April). In early 2026, Namibia's Ministry of Health issued a malaria outbreak alert — 8,760 confirmed cases in the first 4 weeks, a 68% increase over 2025.
+
+| Area on Itinerary | Malaria Risk |
+|-------------------|-------------|
+| Windhoek | Very low |
+| Sossusvlei | None |
+| Swakopmund / Coast | None |
+| Spitzkoppe | Very low |
+| Damaraland | Low |
+| **Etosha** | **Low–Moderate (elevated in March)** |
+| Okonjima | Low |
+
+**Recommendation**: **Take prophylaxis** for the Etosha portion of the trip (Days 9–12).
+- **Malarone** (atovaquone/proguanil) — preferred. Fewer side effects. Start 1–2 days before entering the malaria zone, continue 7 days after leaving.
+- **Doxycycline** — cheaper but causes sun sensitivity (a real problem in sunny Namibia).
+- Consult a travel health clinic **6–8 weeks before departure**.
+
+**Bite prevention**: DEET repellent (30–50%) at dusk/dawn, long sleeves and trousers in the evening, verify rooftop tent has mosquito mesh screens with rental company.
+
+**Post-trip**: If you develop fever, chills, or flu-like symptoms up to 4 weeks after returning, seek medical help immediately and mention you visited Namibia.
+
+### Pros & Cons of Visiting in Early March
+
+| Pros | Cons |
+|------|------|
+| Green, lush landscapes with wildflowers | Inland heat: 30–35°C daily |
+| Baby animals (springbok, zebra, wildebeest calves) | Afternoon thunderstorms can disrupt plans |
+| Up to 1 million flamingos at Etosha | Some gravel/D-roads may deteriorate or flood |
+| 340+ bird species (migratory visitors) | Animals disperse from Etosha waterholes |
+| Significantly fewer tourists | Elevated malaria risk in northern Namibia |
+| Lower prices (accommodation, flights, vehicles) | More mosquitoes and insects |
+| Dramatic skies for photography | Midday heat limits outdoor activity |
+| Sossusvlei vlei may hold water (stunning reflections) | |
+| Dust-free air after rain = exceptional visibility | |
+
+**Overall**: March is an excellent time to visit if you accept the trade-offs. The photography, birding, baby animals, and lack of crowds make it genuinely special. The main adjustments are: carry more water, check road conditions before driving, take malaria prophylaxis, and plan outdoor activities for early morning.

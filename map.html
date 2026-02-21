@@ -109,28 +109,142 @@
         const dayTripIcon   = createIcon('#f4a261', 14);   // amber
         const startEndIcon  = createIcon('#2d6a4f', 22);   // green
 
-        // Route polyline coordinates (unique stops in order)
-        const routeCoords = [
-            [-22.5609, 17.0658],  // Windhoek
-            [-24.4800, 15.8300],  // Sesriem
-            [-22.6784, 14.5268],  // Swakopmund
-            [-21.8242, 15.1933],  // Spitzkoppe
-            [-20.5927, 14.3758],  // Twyfelfontein
-            [-19.1803, 15.9197],  // Okaukuejo
-            [-19.0344, 16.4678],  // Halali
-            [-18.8033, 16.9478],  // Namutoni
-            [-20.7833, 16.7500],  // Okonjima
-            [-22.5609, 17.0658],  // Windhoek
-            [-22.4800, 17.4700]   // Airport
+        // Route segments with road info, risks, and alternatives
+        const riskColors = { low: '#2d6a4f', medium: '#e9c46a', high: '#e63946' };
+
+        const segments = [
+            {
+                from: [-22.5609, 17.0658], to: [-24.4800, 15.8300],
+                day: 2, label: "Windhoek \u2192 Sesriem",
+                distance: "380 km", time: "~5 hrs",
+                risk: "low",
+                roads: "B1 south (tar) \u2192 C24 west (gravel)",
+                detail: "B1 is good tar. C24 is gravel with corrugation. Fuel up in Rehoboth.",
+                rainy: "C24 can deteriorate after heavy rain. River crossings may flood temporarily \u2014 ask at Solitaire.",
+                alt: "None needed \u2014 this is the only practical route."
+            },
+            {
+                from: [-24.4800, 15.8300], to: [-22.6784, 14.5268],
+                day: 4, label: "Sesriem \u2192 Swakopmund",
+                distance: "350 km", time: "~5\u20136 hrs",
+                risk: "high",
+                roads: "C14 (gravel) via Kuiseb Pass & Gaub Pass",
+                detail: "One of Namibia's most scenic drives. Fuel at Solitaire. Steep gradients, corrugation, loose rock.",
+                rainy: "\u26a0\ufe0f HIGH RISK in rainy season. C14 became impassable in 2025 rains. Kuiseb River ford can flood. Check conditions at Sesriem before departing.",
+                alt: "B1 back to Rehoboth \u2192 B2 west to Swakopmund (480 km, longer but all tar)."
+            },
+            {
+                from: [-22.6784, 14.5268], to: [-21.8242, 15.1933],
+                day: 6, label: "Swakopmund \u2192 Spitzkoppe",
+                distance: "150 km", time: "~2 hrs",
+                risk: "medium",
+                roads: "B2 east (tar) \u2192 D1918 north (gravel)",
+                detail: "B2 is good tar. D1918 has two rough sections: first 40 km from Usakos and near Spitzkoppe.",
+                rainy: "D1918 passable with 4x4 but watch for soft sand patches after rain.",
+                alt: "None \u2014 D1918 is the only access road."
+            },
+            {
+                from: [-21.8242, 15.1933], to: [-20.5927, 14.3758],
+                day: 7, label: "Spitzkoppe \u2192 Twyfelfontein",
+                distance: "250 km", time: "~3.5 hrs",
+                risk: "medium",
+                roads: "D1918 \u2192 Uis (fuel!) \u2192 C35/D-roads to Twyfelfontein",
+                detail: "Gravel throughout. Fuel up in Uis. D2612 to Twyfelfontein had structural damage in 2025.",
+                rainy: "D-roads cross dry riverbeds that can flash-flood. Get conditions from Uis or Khorixas before venturing onto D-roads.",
+                alt: "Via Khorixas (C35/C39) \u2014 slightly longer but better-maintained gravel."
+            },
+            {
+                from: [-20.5927, 14.3758], to: [-19.1803, 15.9197],
+                day: 9, label: "Damaraland \u2192 Etosha (Okaukuejo)",
+                distance: "250 km", time: "~3.5 hrs",
+                risk: "low",
+                roads: "C39 \u2192 Outjo (fuel & supplies) \u2192 C38 to Anderson Gate",
+                detail: "Mostly good gravel, improving near Outjo. Outjo is the last proper town before Etosha \u2014 stock up.",
+                rainy: "Generally fine. C-roads are better maintained than D-roads.",
+                alt: "None needed."
+            },
+            {
+                from: [-19.1803, 15.9197], to: [-19.0344, 16.4678],
+                day: 10, label: "Okaukuejo \u2192 Halali",
+                distance: "~70 km", time: "Full day game driving",
+                risk: "low",
+                roads: "Etosha park roads (graded gravel)",
+                detail: "Loop via waterholes: Nebrownii, Gemsbokvlakte, Rietfontein. Speed limit 60 km/h.",
+                rainy: "Expect deep ruts and puddles. Some side roads may close. Ask at Okaukuejo reception.",
+                alt: "Direct route is short; choose waterhole loops based on current conditions."
+            },
+            {
+                from: [-19.0344, 16.4678], to: [-18.8033, 16.9478],
+                day: 11, label: "Halali \u2192 Namutoni",
+                distance: "~75 km", time: "Full day game driving",
+                risk: "low",
+                roads: "Etosha park roads (graded gravel)",
+                detail: "Key waterholes: Goas, Klein Namutoni, Fischer's Pan. Eastern side has different habitat.",
+                rainy: "Fischer's Pan may hold water in rainy season \u2014 attracts flamingos and waterbirds. Some seasonal roads may close.",
+                alt: "Choose waterhole loops based on conditions at Halali reception."
+            },
+            {
+                from: [-18.8033, 16.9478], to: [-20.7833, 16.7500],
+                day: 12, label: "Namutoni \u2192 Okonjima",
+                distance: "300 km", time: "~3.5 hrs",
+                risk: "low",
+                roads: "Von Lindequist Gate \u2192 B1 south (tar) via Otjiwarongo",
+                detail: "Exit Etosha east. B1 is good tar the whole way. Turn off to Okonjima signposted from B1.",
+                rainy: "Low risk \u2014 tar road. Watch for potholes after heavy rain.",
+                alt: "None needed."
+            },
+            {
+                from: [-20.7833, 16.7500], to: [-22.5609, 17.0658],
+                day: 13, label: "Okonjima \u2192 Windhoek",
+                distance: "250 km", time: "~3 hrs",
+                risk: "low",
+                roads: "B1 south (tar)",
+                detail: "Good tar road the entire way. Straightforward drive.",
+                rainy: "Low risk. Possible potholes.",
+                alt: "None needed."
+            },
+            {
+                from: [-22.5609, 17.0658], to: [-22.4800, 17.4700],
+                day: 14, label: "Windhoek \u2192 Airport",
+                distance: "45 km", time: "~40 min",
+                risk: "low",
+                roads: "B6 east (tar)",
+                detail: "Paved highway to Hosea Kutako International Airport.",
+                rainy: "No issues.",
+                alt: "None."
+            }
         ];
 
-        // Draw the route
-        L.polyline(routeCoords, {
-            color: '#264653',
-            weight: 3,
-            opacity: 0.8,
-            dashArray: '8, 6'
-        }).addTo(map);
+        // Draw each segment as a clickable polyline
+        segments.forEach(seg => {
+            const color = riskColors[seg.risk];
+            const line = L.polyline([seg.from, seg.to], {
+                color: color,
+                weight: 4,
+                opacity: 0.85
+            }).addTo(map);
+
+            const riskBadge = {
+                low:    '<span style="background:#2d6a4f;color:white;padding:2px 7px;border-radius:3px;font-size:11px;">LOW RISK</span>',
+                medium: '<span style="background:#e9c46a;color:#1a1a2e;padding:2px 7px;border-radius:3px;font-size:11px;">MEDIUM RISK</span>',
+                high:   '<span style="background:#e63946;color:white;padding:2px 7px;border-radius:3px;font-size:11px;">HIGH RISK</span>'
+            }[seg.risk];
+
+            const popup = `
+                <div style="min-width: 240px; max-width: 320px;">
+                    <h3 style="margin: 0 0 4px; font-size: 15px; color: #1a1a2e;">Day ${seg.day}: ${seg.label}</h3>
+                    <div style="margin-bottom: 8px;">${riskBadge} &nbsp; ${seg.distance} &middot; ${seg.time}</div>
+                    <div style="font-size: 13px; color: #333; line-height: 1.6;">
+                        <strong>Road:</strong> ${seg.roads}<br>
+                        ${seg.detail}<br><br>
+                        <strong>Rainy season:</strong> ${seg.rainy}<br><br>
+                        <strong>Alternative:</strong> ${seg.alt}
+                    </div>
+                </div>
+            `;
+
+            line.bindPopup(popup);
+        });
 
         // Day trip connector lines (dashed, lighter)
         const dayTripLines = [
@@ -246,9 +360,18 @@
                     <div class="legend-circle" style="background: #f4a261;"></div>
                     Day trip
                 </div>
+                <div style="border-top: 1px solid #ddd; margin: 6px 0 4px; padding-top: 6px; font-weight: 600; font-size: 12px;">Route risk (click line)</div>
                 <div class="legend-item">
-                    <div class="legend-line" style="background: #264653; border-top: 2px dashed #264653; background: none;"></div>
-                    Driving route
+                    <div class="legend-line" style="background: #2d6a4f; height: 4px;"></div>
+                    Low
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line" style="background: #e9c46a; height: 4px;"></div>
+                    Medium
+                </div>
+                <div class="legend-item">
+                    <div class="legend-line" style="background: #e63946; height: 4px;"></div>
+                    High
                 </div>
             `;
             return div;
